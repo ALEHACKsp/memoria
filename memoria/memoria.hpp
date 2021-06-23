@@ -1,4 +1,0 @@
-class Memoria
-{
-    // implement
-};
