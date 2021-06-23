@@ -39,3 +39,6 @@
 
 # dont upload main
 main.cpp
+
+#vs
+.vs
