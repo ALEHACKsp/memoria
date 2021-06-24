@@ -24,22 +24,20 @@ Just clone this repository and copy "memoria/memoria.cpp" & "memoria/memoria.hpp
 <ul>
   <li>Functions</li>
     <ul>
-      <li>GetProcessId</li>
+      <li>GetProcessId ✓</li>
     </ul>
   <li>Classes</li>
     <ul>
       <li>Memoria</li>
         <ul>
-          <li>GetWindowHandle</li>
-          <li>GetProcessHandle</li>
+          <li>GetWindowHandle ✓</li>
+          <li>GetProcessHandle ✓</li>
           <li>GetModuleBaseAddress</li>
           <li>GetPointerAddress</li>
           <li>Init</li>
-          <li>ReadMem</li>
-          <li>ReadInt</li>
+          <li>ReadInt ✓</li>
           <li>ReadFloat</li>
           <li>ReadStr</li>
-          <li>WriteMem</li>
           <li>WriteInt</li>
           <li>WriteFloat</li>
           <li>WriteStr</li>
